@@ -2,6 +2,6 @@
 def countdown(y)
   while y <= 10
     puts "#{y} SECOND(S)!"
-  x -= 1
+    x -= 1
   end
 end
